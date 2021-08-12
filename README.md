@@ -1,7 +1,7 @@
 # Spring-Sunset-ttk-theme  | Spring-Sunset ttk Тема
  
 
-![Light screenshot](https://github.com/blyamur/Spring-Sunset-ttk-theme/blob/master/Light%20screenshot.png)
+![Light screenshot](https://github.com/blyamur/Spring-Sunset-ttk-theme/blob/main/Light%20screenshot.png)
 ###### Screenshot taken on windows 7 | Скриншот сделан на windows 7
 
 ## How to use? Как использовать
