@@ -21,6 +21,9 @@ widget.tk.call("source", "spring-sunset.tcl")
 widget.tk.call("set_theme", "light") 
 ```
 
+![Light screenshot](https://github.com/blyamur/Spring-Sunset-ttk-theme/blob/main/Example%20Screenshot.png)
+
+
 ## Bugs | Глюки
 - Tk isn't really good at displaying `png` images, so if your program is laggy with the theme, please check out the [gif-based branch!](https://github.com/rdbende/Sun-Valley-ttk-theme/tree/gif-based/)
 - When you change the theme, the window resizes. This is a quite strange bug that applies to all ttk themes. 
@@ -28,6 +31,7 @@ widget.tk.call("set_theme", "light")
 
 ## Examples | Примеры
 Светлая тема | Light theme:  [Spring-Noon-ttk-theme](https://github.com/blyamur/Spring-Noon-ttk-theme/).
+
 Examples | Примеры: [Sun-Valley-ttk-examples](https://github.com/rdbende/Sun-Valley-ttk-examples).  [rdbende](https://github.com/rdbende/Sun-Valley-ttk-theme)
 
 
