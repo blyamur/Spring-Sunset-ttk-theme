@@ -2,7 +2,7 @@
  
 
 ![Light screenshot](https://github.com/blyamur/Spring-Sunset-ttk-theme/blob/main/Light%20Screenshot.png)
-###### <>
+######
 
 ## How to use? Как использовать
 Using a theme should be very simple, so customizing the theme is handled by a separate tcl script.
